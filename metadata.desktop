@@ -1,0 +1,17 @@
+[ContrastEffect]
+contrast=0.2
+enabled=true
+intensity=2.0
+saturation=1.7
+
+[Desktop Entry]
+Name=Modern 10 Light
+X-KDE-PluginInfo-Author=fauzie
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-Email=fauzie.rofi@gmail.com
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=CCPL:by-sa
+X-KDE-PluginInfo-Name=Modern-10-Light
+X-KDE-PluginInfo-Version=.0.14
+X-KDE-PluginInfo-Website=

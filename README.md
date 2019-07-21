@@ -1,2 +1,2 @@
-# plasma-theme-modern10light
+# Modern 10 Light
 Windows 10 Light theme for Plasma 5
