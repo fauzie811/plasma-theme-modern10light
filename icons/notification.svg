@@ -83,7 +83,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -100,9 +100,9 @@
      inkscape:window-height="833"
      id="namedview32"
      showgrid="true"
-     inkscape:zoom="5.6568545"
-     inkscape:cx="67.480208"
-     inkscape:cy="3.965485"
+     inkscape:zoom="8.0000004"
+     inkscape:cx="52.080166"
+     inkscape:cy="26.274561"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -111,7 +111,8 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-bbox="true"
-     inkscape:document-rotation="0">
+     inkscape:document-rotation="0"
+     inkscape:lockguides="false">
     <inkscape:grid
        type="xygrid"
        id="grid3046"
@@ -126,7 +127,7 @@
   </sodipodi:namedview>
   <g
      id="notification-progress-active"
-     transform="translate(39,-1)">
+     transform="translate(43,-1)">
     <rect
        style="fill:#ffffff;fill-opacity:0;stroke:none"
        id="rect3009"
@@ -135,9 +136,12 @@
        x="1"
        y="1" />
     <path
-       d="m 5,5 h 14 v 0 11 0 H 14.5 L 12,18.5 9.5,16 H 5 v 0 z"
-       style="fill:#3daee9;fill-opacity:1;stroke:none"
-       id="rect5921-0" />
+       sodipodi:nodetypes="cccccccc"
+       d="M 4,4 V 17 H 9.0859375 L 12,19.914062 14.914062,17 H 20 V 4 Z"
+       style="fill:currentColor;fill-opacity:1;stroke:none"
+       class="ColorScheme-Text"
+       id="rect5921-0"
+       inkscape:connector-curvature="0" />
   </g>
   <g
      id="notification-inactive"
@@ -170,8 +174,8 @@
     <path
        inkscape:connector-curvature="0"
        class="ColorScheme-Text"
-       d="m 5,5 h 14 v 0 11 0 H 14.5 L 12,18.5 9.5,16 H 5 v 0 z"
-       style="color:#7b7c7e;opacity:0.4;fill:currentColor;fill-opacity:1;stroke:none"
+       d="M 4,4 V 5 17 H 5 9.0859375 L 12,19.914062 14.914062,17 H 19 20 V 5 4 Z M 5,5 H 19 V 16 H 14.5 L 12,18.5 9.5,16 H 5 Z"
+       style="fill:currentColor;fill-opacity:1;stroke:none"
        id="rect5933-8" />
   </g>
   <g
@@ -185,15 +189,11 @@
        id="rect3068"
        style="fill:#ffffff;fill-opacity:0;stroke:none" />
     <path
-       d="m 5,5 h 14 v 0 11 0 H 14.5 L 12,18.5 9.5,16 H 5 v 0 z"
-       style="fill:#3daee9;fill-opacity:1;stroke:none"
+       transform="translate(1,-21)"
+       d="M 3 25 L 3 38 L 8.0859375 38 L 11 40.914062 L 13.914062 38 L 19 38 L 19 25 L 3 25 z M 6 28 L 16 28 L 16 29 L 6 29 L 6 28 z M 6 31 L 16 31 L 16 32 L 6 32 L 6 31 z M 6 34 L 12 34 L 12 35 L 6 35 L 6 34 z "
+       style="fill:currentColor;fill-opacity:1;stroke:none"
+       class="ColorScheme-Text"
        id="rect4130-82-0" />
-    <path
-       inkscape:connector-curvature="0"
-       style="fill:#fcfcfc;fill-opacity:1;stroke:none"
-       d="M 7,7 V 8 H 17 V 7 Z m 0,3 v 1 h 10 v -1 z m 0,3 v 1 h 6 v -1 z"
-       id="rect4142-6"
-       sodipodi:nodetypes="cccccsssss" />
   </g>
   <path
      class="ColorScheme-Text"
@@ -257,7 +257,7 @@
        id="path3800"
        transform="translate(1,1)"
        d="M 3,3 V 4 16 H 4 8.0859375 L 11,18.914062 13.914062,16 H 18 19 V 4 3 Z M 4,4 H 18 V 15 H 13.5 L 11,17.5 8.5,15 H 4 Z"
-       style="fill:currentColor;fill-opacity:0.941176;stroke:none"
+       style="fill:currentColor;fill-opacity:1;stroke:none"
        sodipodi:nodetypes="ssssssssssssss" />
   </g>
 </svg>
