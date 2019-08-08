@@ -824,7 +824,7 @@
     <rect
        y="916.36218"
        x="33"
-       height="0.1"
+       height="8"
        width="4"
        id="hint-top-margin"
        style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.408247" />
@@ -832,7 +832,7 @@
        style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.408249"
        id="hint-bottom-margin"
        width="4"
-       height="0.1"
+       height="8"
        x="33"
        y="947.36218" />
     <rect
@@ -840,14 +840,14 @@
        style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.408248"
        id="hint-right-margin"
        width="4"
-       height="0.1"
+       height="8"
        x="930.36218"
        y="-51" />
     <rect
        transform="rotate(90)"
        y="-20"
        x="930.36218"
-       height="0.1"
+       height="8"
        width="4"
        id="hint-left-margin"
        style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.408248" />
