@@ -157,7 +157,7 @@
        inkscape:connector-curvature="0"
        class="ColorScheme-Text"
        id="path3016"
-       d="M 4,5 V 6 18 H 5 9.0859375 L 12,20.914062 14.914062,18 H 19 20 V 6 5 Z M 5,6 H 19 V 17 H 14.5 L 12,19.5 9.5,17 H 5 Z M 7,8 V 9 H 17 V 8 Z m 0,3 v 1 h 10 v -1 z m 0,3 v 1 h 6 v -1 z"
+       d="M 4 5 V 6 V 18 H 5 H 9.0859 L 12 20.9141 L 14.9141 18 H 19 H 20 V 6 V 5 Z M 5 6 H 19 V 17 H 14.5 L 12 19.5 L 9.5 17 H 5 Z Z z z"
        style="fill:currentColor;fill-opacity:1;stroke:none" />
   </g>
   <g
